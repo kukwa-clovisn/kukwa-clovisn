@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kukwa-clovisn
+- 👋 Hi, I’m Kukwa Clovis Ngong
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on all
