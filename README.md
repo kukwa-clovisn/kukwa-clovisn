@@ -20,7 +20,7 @@ https://codingherald.herokuapp.com
 ```
 ### Youtube channel: 
 ```
-https://www.youtube.com/channel/UCKu1y3terjWMgZxyz73RucQ
+[https://www.youtube.com/channel/UCKu1y3terjWMgZxyz73RucQ](https://www.youtube.com/@codingherald)
 ```
 <!---
 kukwa-clovisn/kukwa-clovisn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
