@@ -15,8 +15,9 @@ kukwaclovisngong3@gmail.com
 ```
 ### Websites: 
 ```
-https://advancedtechacademy.herokuapp.com
-https://codingherald.herokuapp.com
+https://advancedtechacademy.onrender.com
+https://codingherald.onrender.com
+https://jugosexchange.web.app
 ```
 ### Youtube channel: 
 ```
