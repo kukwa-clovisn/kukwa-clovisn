@@ -16,8 +16,9 @@ kukwaclovisngong3@gmail.com
 ### Websites: 
 ```
 https://advancedtechacademy.onrender.com
-https://codingherald.onrender.com
+https://codingherald.netlify.app
 https://jugosexchange.web.app
+https://biscaminvestmentsarl.netlify.app
 ```
 ### Youtube channel: 
 ```
